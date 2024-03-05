@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g CMakeFiles/Consumer.dir/callfriendservice.cc.o CMakeFiles/Consumer.dir/__/friend.pb.cc.o -o ../../../bin/Consumer  ../../../lib/libmprpc.a -lprotobuf -lmuduo_net -lmuduo_base -lpthread -lzookeeper_mt 

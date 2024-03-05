@@ -1,0 +1,11 @@
+20:43:14 =>[info] service_name:FriendServiceRpc
+20:43:14 =>[info] method_name:GetFriendsList
+20:43:14 =>[info] =============打印调试信息==============
+20:43:27 =>[info] header_size:36
+20:43:27 =>[info] rpc_header_str:
+FriendServiceRpcGetFriendsList
+20:43:27 =>[info] service_name:FriendServiceRpc
+20:43:27 =>[info] method_name:GetFriendsList
+20:43:27 =>[info] args_str:�
+20:43:27 =>[info] =====================================
+20:43:27 =>[info] SERIALIZETOSTRING success

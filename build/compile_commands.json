@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/kristen/RPC/build/src",
+  "command": "/usr/bin/clang++  -I/home/kristen/RPC/src/include -I/home/kristen/RPC/example -I/home/kristen/RPC/lib -g -o CMakeFiles/mprpc.dir/logger.cc.o -c /home/kristen/RPC/src/logger.cc",
+  "file": "/home/kristen/RPC/src/logger.cc"
+},
+{
+  "directory": "/home/kristen/RPC/build/src",
+  "command": "/usr/bin/clang++  -I/home/kristen/RPC/src/include -I/home/kristen/RPC/example -I/home/kristen/RPC/lib -g -o CMakeFiles/mprpc.dir/mprpcapplication.cc.o -c /home/kristen/RPC/src/mprpcapplication.cc",
+  "file": "/home/kristen/RPC/src/mprpcapplication.cc"
+},
+{
+  "directory": "/home/kristen/RPC/build/src",
+  "command": "/usr/bin/clang++  -I/home/kristen/RPC/src/include -I/home/kristen/RPC/example -I/home/kristen/RPC/lib -g -o CMakeFiles/mprpc.dir/mprpcchannel.cc.o -c /home/kristen/RPC/src/mprpcchannel.cc",
+  "file": "/home/kristen/RPC/src/mprpcchannel.cc"
+},
+{
+  "directory": "/home/kristen/RPC/build/src",
+  "command": "/usr/bin/clang++  -I/home/kristen/RPC/src/include -I/home/kristen/RPC/example -I/home/kristen/RPC/lib -g -o CMakeFiles/mprpc.dir/mprpcconfig.cc.o -c /home/kristen/RPC/src/mprpcconfig.cc",
+  "file": "/home/kristen/RPC/src/mprpcconfig.cc"
+},
+{
+  "directory": "/home/kristen/RPC/build/src",
+  "command": "/usr/bin/clang++  -I/home/kristen/RPC/src/include -I/home/kristen/RPC/example -I/home/kristen/RPC/lib -g -o CMakeFiles/mprpc.dir/mprpccontroller.cc.o -c /home/kristen/RPC/src/mprpccontroller.cc",
+  "file": "/home/kristen/RPC/src/mprpccontroller.cc"
+},
+{
+  "directory": "/home/kristen/RPC/build/src",
+  "command": "/usr/bin/clang++  -I/home/kristen/RPC/src/include -I/home/kristen/RPC/example -I/home/kristen/RPC/lib -g -o CMakeFiles/mprpc.dir/rpcheader.pb.cc.o -c /home/kristen/RPC/src/rpcheader.pb.cc",
+  "file": "/home/kristen/RPC/src/rpcheader.pb.cc"
+},
+{
+  "directory": "/home/kristen/RPC/build/src",
+  "command": "/usr/bin/clang++  -I/home/kristen/RPC/src/include -I/home/kristen/RPC/example -I/home/kristen/RPC/lib -g -o CMakeFiles/mprpc.dir/rpcprovider.cc.o -c /home/kristen/RPC/src/rpcprovider.cc",
+  "file": "/home/kristen/RPC/src/rpcprovider.cc"
+},
+{
+  "directory": "/home/kristen/RPC/build/src",
+  "command": "/usr/bin/clang++  -I/home/kristen/RPC/src/include -I/home/kristen/RPC/example -I/home/kristen/RPC/lib -g -o CMakeFiles/mprpc.dir/zookeeperutil.cc.o -c /home/kristen/RPC/src/zookeeperutil.cc",
+  "file": "/home/kristen/RPC/src/zookeeperutil.cc"
+},
+{
+  "directory": "/home/kristen/RPC/build/example/callee",
+  "command": "/usr/bin/clang++  -I/home/kristen/RPC/src/include -I/home/kristen/RPC/example -I/home/kristen/RPC/lib -g -o CMakeFiles/Provider.dir/friendservice.cc.o -c /home/kristen/RPC/example/callee/friendservice.cc",
+  "file": "/home/kristen/RPC/example/callee/friendservice.cc"
+},
+{
+  "directory": "/home/kristen/RPC/build/example/callee",
+  "command": "/usr/bin/clang++  -I/home/kristen/RPC/src/include -I/home/kristen/RPC/example -I/home/kristen/RPC/lib -g -o CMakeFiles/Provider.dir/__/friend.pb.cc.o -c /home/kristen/RPC/example/friend.pb.cc",
+  "file": "/home/kristen/RPC/example/friend.pb.cc"
+},
+{
+  "directory": "/home/kristen/RPC/build/example/caller",
+  "command": "/usr/bin/clang++  -I/home/kristen/RPC/src/include -I/home/kristen/RPC/example -I/home/kristen/RPC/lib -g -o CMakeFiles/Consumer.dir/callfriendservice.cc.o -c /home/kristen/RPC/example/caller/callfriendservice.cc",
+  "file": "/home/kristen/RPC/example/caller/callfriendservice.cc"
+},
+{
+  "directory": "/home/kristen/RPC/build/example/caller",
+  "command": "/usr/bin/clang++  -I/home/kristen/RPC/src/include -I/home/kristen/RPC/example -I/home/kristen/RPC/lib -g -o CMakeFiles/Consumer.dir/__/friend.pb.cc.o -c /home/kristen/RPC/example/friend.pb.cc",
+  "file": "/home/kristen/RPC/example/friend.pb.cc"
+}
+]
